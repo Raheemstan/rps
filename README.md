@@ -9,4 +9,4 @@ python main.py
 #### Enter a choice 
 ## R for rock
 ## P for paper
-##S for scissors
+## S for scissors
