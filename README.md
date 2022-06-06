@@ -1,4 +1,4 @@
-# rps
+# Rock Paper Scissors
 
 To run game
 ```bash
